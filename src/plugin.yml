@@ -1,0 +1,5 @@
+name: Test
+version: 1.0
+author: jh
+main: jh.test.Test
+api-version: 1.19
